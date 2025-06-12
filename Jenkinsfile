@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/your/repo.git'
+                git 'https://github.com/Tenzin-s/test-app.git'
             }
         }
 
