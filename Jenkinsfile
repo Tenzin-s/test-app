@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PATH = "/usr/local/bin:$PATH"
+        PATH = "/Users/tenzinsherpa/.nvm/versions/node/v22.16.0/bin/npm"
     }
 
     stages {
